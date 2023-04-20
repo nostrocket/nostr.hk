@@ -24,6 +24,7 @@
     if (threadedEvent.replies) {
         // @ts-ignore
         replies = threadedEvent.replies.sort((a, b) => a.event.created_at - b.event.created_at);
+        console.log(replies)
     }
 
     $: {
