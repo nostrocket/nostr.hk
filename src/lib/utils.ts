@@ -147,6 +147,7 @@ export function fetchEventsAndUserIds(rootEventId: string): Promise<App.EventsAn
             threadEventsArr.forEach((item) => {console.log(item.toNostrEvent())})
 
       
+            // console.log("threadEventsArr: ", threadEventsArr)
             const allEvents = [rootEvent, ...threadEventsArr];
             const sortedThreadEvents = threadEventsArr.sort(
                 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
@@ -156,6 +157,7 @@ export function fetchEventsAndUserIds(rootEventId: string): Promise<App.EventsAn
             );
             
             const tree = threadEvents(rootEvent, sortedThreadEvents);
+            console.log(tree,'tree')
 
 
             const userIds = allEvents.map((item) => item.pubkey);
