@@ -1,0 +1,1 @@
+import{s as t}from"./i18n.cf020027.js";import{n as e}from"./ndk.195ad567.js";import{V as o}from"./index.774d9f76.js";async function r(){return t(),await o(e).connect(),{}}const n=!0,p=Object.freeze(Object.defineProperty({__proto__:null,load:r,prerender:n},Symbol.toStringTag,{value:"Module"}));export{p as _,r as l,n as p};

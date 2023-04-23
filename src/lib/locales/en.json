@@ -14,8 +14,8 @@
     },
     "join": {
         "title": "Join the conversation",
-        "p1": "Intoduce yourself to the HK community (or just say hi) on <a href=\"{threadUrl}\">this thread</a> to receive a DM about the next meetup.",
-        "p2": "If you're new to to nostr, the most popular nostr apps are <a href=\"{damusUrl}\">Damus</a> (iPhone), <a href=\"{amethystUrl}\">Amethyst</a> (Android), and <a href=\"{irisUrl}\">iris.to</a> (web)."
+        "p1": "Intoduce yourself to the HK community (or just say hi) on <a href=\"https://snort.social/e/note134slxdr2np6ml5f459me8cfmzg6cgw46c2agv55mtq55mtdtcgaqu4af4l\">this thread</a> to receive a DM about the next meetup.",
+        "p2": "If you're new to to nostr, the most popular nostr apps are <a href=\"https://apps.apple.com/us/app/damus/id1628663131\">Damus</a> (iPhone), <a href=\"https://github.com/vitorpamplona/amethyst/releases/latest\">Amethyst</a> (Android), and <a href=\"https://iris.to/\">iris.to</a> (web)."
     },
     "nostrHkMembers": {
         "title": "Nostr HK Members",

@@ -14,8 +14,8 @@
     },
     "join": {
         "title": "加入群组",
-        "p1": "在這個<a href=\"{threadUrl}\">帖子</a>下面回復來向社區介紹你自己，或者Say Hi。",
-        "p2": "如果你是新人,目前最流行的APP是<a href=\"{damusUrl}\">Damus</a> (iPhone), <a href=\"{amethystUrl}\">Amethyst</a> (Android), 和 <a href=\"{irisUrl}\">iris.to</a>。"
+        "p1": "在這個<a href=\"https://snort.social/e/note134slxdr2np6ml5f459me8cfmzg6cgw46c2agv55mtq55mtdtcgaqu4af4l\">帖子</a>下面回復來向社區介紹你自己，或者Say Hi。",
+        "p2": "如果你是新人,目前最流行的APP是<a href=\"https://apps.apple.com/us/app/damus/id1628663131\">Damus</a> (iPhone), <a href=\"https://github.com/vitorpamplona/amethyst/releases/latest\">Amethyst</a> (Android), 和 <a href=\"https://iris.to/\">iris.to</a>。"
     },
     "nostrHkMembers": {
         "title": "Nostr HK Members",
