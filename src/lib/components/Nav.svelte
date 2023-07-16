@@ -16,7 +16,7 @@
             text: 'Nostr Thread',
             url: 'https://snort.social/e/note134slxdr2np6ml5f459me8cfmzg6cgw46c2agv55mtq55mtdtcgaqu4af4l'
         },
-        { text: 'Telegram', url: 'https://t.me/nostrhk' },
+        { text: 'Telegram', url: 'https://t.me/nostrasia' },
         { text: 'Hackathon', url: 'https://dorahacks.io/hackathon/hack-nostr-on' }
     ];
 
